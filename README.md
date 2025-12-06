@@ -36,4 +36,4 @@ Press Q to exit the program.
 
 # Contribute
 
-Feel free to fork this repo and submit pull requests!
+Feel free to fork this repo and submit pull requests.
